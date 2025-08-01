@@ -1,0 +1,117 @@
+
+
+ .background-initial {background-color: rgb(255, 255, 255); top: 5px; left: 154px; width: 766px; height: 550px;
+}
+
+
+        .question-box{
+                position: relative; 
+                top: -35px; 
+                margin-left: 25px;
+                width: 770px;
+                height: 30px;
+                background: #CDE1F8;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+                border-radius: 16px;
+                font-family:Arial, Helvetica, sans-serif;
+                font-weight: 500;
+                font-size: 21px;
+                padding-left: 10px;
+                line-height: 30px;
+        
+                }
+                
+                .question-box2{
+                position: relative; 
+                top: -27px; 
+                margin-left: 25px;
+                width: 775px;
+                height: 165px;
+                background: #ffffff;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+                border-radius: 16px;
+                }
+        
+        .silex-id-1691950745030-58 {top: 416px; left: 100px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691951185935-59 {top: 208px; left: 100px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691952482334-60 {top: 228px; left: 120px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691953406078-61 {top: 100px; left: 100px; height: 0px; width: 0px; display: none;
+        }
+        
+        .silex-id-1691954890380-0 {top: 120px; left: 120px; height: 0px; width: 0px; display: none;
+        }
+        /*final answer selection*/
+        .silex-id-1691949911760-57 {top: 495px; left: 405px; height: 1.5em; width: 60px;
+        }
+        /*final answer text*/
+        .silex-id-1691949866785-56 {top: 495px; left: 330px; height: 40px; width: 160px;
+        }
+        /*figure1 GIF*/
+        .silex-id-1688207530601-4 {top: 560px; left: 30px; width: 200px; display: flex; 
+        }
+         /*blank1 top left */
+        .silex-id-1691934808162-7 {top: 205px; left: 45px; height: 1.5em; width: 55px;
+        }
+        /*NO.3 blank1 top left */
+        .silex-id-1691934946325-8 {top: 380px; left: 50px; height: 1.5em; width: 55px;
+        }
+        /*NO.3 blank2 top left */
+        .silex-id-1691936326438-21 {top: 380px; left: 455px; height: 1.5em; width: 55px;
+        }
+        /*NO.3 blank3 top left */
+        .silex-id-1691936332775-22 {top: 380px; left: 555px; height: 1.5em; width: 55px;
+        }
+        /*NO.4 blank3 top left */
+        .silex-id-1691936300811-18 {top: 465px; left: 210px; height: 1.5em; width: 55px;
+        }
+        /*blank3 top right */
+        .silex-id-1691936309202-19 {top: 205px; left: 455px; height: 1.5em; width: 55px;
+        }
+        
+        /*NO.2 blank3 top right */
+        .silex-id-1691936315581-20 {top: 290px; left: 595px; height: 1.5em; width: 55px;
+        }
+         /*blank2 top left */
+        .silex-id-1691934951526-9 {top: 205px; left: 308px; height: 1.5em; width: 55px;
+        }
+         /*submit button5*/
+        .silex-id-1691954016031-62 {top: 535px; left: 700px; height: 40px; width: 95px;font-size: 15px;
+        }
+        /*submit button1*/
+        .silex-id-1691949669239-55 {top: 535px; left: 700px; height: 40px; width: 95px;font-size: 15px;
+        }
+        /*submit button2*/
+        .silex-id-1691949660902-54 {top: 535px; left: 700px; height: 40px; width: 95px;font-size: 15px;
+        }
+        /*submit button3*/
+        .silex-id-1691949526931-53 {top: 535px; left: 700px; height: 40px; width: 95px;font-size: 15px;
+        }
+        
+        /*submit button4*/
+        .silex-id-1691934076333-4 {top: 535px; left: 700px; height: 40px; width: 95px;font-size: 15px;
+        }
+        /*HINTwindow*/
+        .silex-id-1691934003408-3 {top: 335px; left: 60px; height: 160px; width: 380px; display: flex; font-size: 20px;
+        }
+        /*HintButton*/
+        .silex-id-1691933992980-1 {top: 535px; left: 40px; height: 40px; width: 95px;
+        }
+        /*DoneButton*/
+        .silex-id-1691933999357-2 {top: 730px; left: 700px; height: 40px; width: 95px;
+        }
+
+        /*img numebr line*/
+        .silex-id-1696142607040-0 {top: 160px; left: 15px;  width: 800px;
+        }
+ 
+         /*img question*/
+        .silex-id-1696142803548-2 {top: 6px; left: 40px;  width: 530px;
+        }
+         /*imgQ11 question*/
+        .silex-id-1696142803548-3 {top: 0px; left: 640px;  width:165px;
+        }
+    
+    
