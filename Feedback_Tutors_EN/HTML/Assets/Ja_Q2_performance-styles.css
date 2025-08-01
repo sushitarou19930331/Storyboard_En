@@ -1,0 +1,96 @@
+
+
+        .background-initial {background-color: rgb(255, 255, 255); top: 5px; left: 154px; width: 766px; height: 550px;
+        }
+
+        .question-box{
+        position: relative; 
+        top: -22px; 
+        margin-left: 25px;
+        width: 770px;
+        height: 30px;
+        background: #CDE1F8;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 16px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 21px;
+        padding-left: 10px;
+        line-height: 30px;
+ 
+        
+
+        }
+        
+        .question-box2{
+        position: relative; 
+        top: -17px; 
+        margin-left: 25px;
+        width: 775px;
+        height: 100px;
+        background: #ffffff;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 16px;
+        }
+
+        /*hint button*/
+        .silex-id-1691933992980-1 {top: 313px; left: 45px; height: 40px; width: 95px;   
+        }
+        /*done button*/
+        .silex-id-1691933999357-2 {top: 580px; left: 665px; height: 40px; width: 95px;
+        } 
+        /*final answer text*/
+        .silex-id-1691936994289-29 {top: 300px; left: 320px; height: 40px; width: 230px;font-size: 17px;
+        }
+        .silex-id-1691937896640-35 {top: 100px; left: 100px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691938730839-37 {top: 120px; left: 120px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691939877693-38 {top: 115px; left: 100px; height: 0px; width: 0px; display: none;
+        }
+        .silex-id-1691940374867-40 {top: 135px; left: 120px; height: 0px; width: 0px; display: none;
+        }
+        .body-initial {background-color: rgb(255, 255, 255); height: 650px;
+        }
+        /*HINTwindow*/
+        .silex-id-1691934003408-3 {top: 250px; left: 40px; height: 160px; width: 380px; display: flex; font-size: 20px;
+        }
+        /*figure1 GIF*/
+        .silex-id-1691934003408-4 {top: 370px; left: 20px; width: 200px; display: flex; 
+        }
+        /*picture question*/
+        .silex-id-1692544487643-0 {top: 30px; left: 45px; width: 620px;
+        }
+        /*picture2*/
+        .silex-id-1692544487643-01 {top: -17px; left: 660px;width: 135px;
+        }
+        /*numebr line blank1*/
+        .silex-id-1691934808162-7 {top: 135px; left: 245px; height: 1.5em; width: 60px;
+        }
+        /*img numebr line*/
+        .silex-id-1692544602619-1 {top: 140px; left: 118px; width: 545px;
+        }
+
+        
+        /*numebr line blank2*/
+        .silex-id-1691934946325-8 {top: 134px; left: 510px; height: 1.5em; width: 60px;
+        }
+        /*numebr line blank3*/
+        .silex-id-1691934951526-9 {top: 247px; left: 510px; height: 1.5em; width: 60px;
+        }
+        /*answer selection*/
+        .silex-id-1692544913210-2 {top: 300px; left: 385px; height: 1.5em; width: 60px;
+        }
+        /*submit button2*/
+        .silex-id-1691938640511-36 {top: 313px; left: 665px; height: 40px; width: 95px; font-size: 15px;
+        }
+        /*submit button3*/
+        .silex-id-1691939956063-39 {top: 313px; left: 665px; height: 40px; width: 95px;font-size: 15px;
+        }
+         /*submit button1*/
+        .silex-id-1691934076333-4 {top: 313px; left: 665px; height: 40px; width: 95px;font-size: 15px;
+        }
+        /*submit button4*/
+        .silex-id-1692545249003-3 {top: 313px; left: 665px; height: 40px; width: 95px;font-size: 15px;
+        }
+    
